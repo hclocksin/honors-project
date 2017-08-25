@@ -1,2 +1,2 @@
 # honors-project
-All files and programs needed for the pilot and final studies
+All MATLAB scripts for the studies
